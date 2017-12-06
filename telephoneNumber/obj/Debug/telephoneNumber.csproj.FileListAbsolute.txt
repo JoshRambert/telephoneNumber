@@ -1,0 +1,9 @@
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\bin\Debug\telephoneNumber.exe.config
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\bin\Debug\telephoneNumber.exe
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\bin\Debug\telephoneNumber.pdb
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.Form1.resources
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.exe
+C:\Users\Joshua\Desktop\C#\telephoneNumber\telephoneNumber\obj\Debug\telephoneNumber.pdb
